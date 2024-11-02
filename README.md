@@ -10,7 +10,7 @@
 
 **Level 2:** Add the AbuseIPDB badge (requires free account sign up) to your web site's landing page.
 
-**Level 3:** Implement this project's Azure objectives using PowerShell.
+**Level 3:** Implement this project's Azure objectives Level 1 using PowerShell.
 
 **Level 4:** Implement this project's GitHub objectives using the Azure Cloud Shell
 
